@@ -13,3 +13,13 @@ Here is Nick's creation for a mid-level (1,000 foot) view.
 And here is Nick and my creation for the low-level (10 foot) view.
 
 ![](fullStack.jpg)
+
+And the new generation:
+
+#### Back End
+
+![Back End](newFullStack1.jpg)
+
+#### Front End
+
+![Front End](newFullStack2.jpg)
